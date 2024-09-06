@@ -6,6 +6,12 @@ This project consists of a discord bot that is capable of running commands on yo
 ### About Repository
 This repository contains both the code for the client side (on user's personal machine) and the server side (which runs the bot). 
 
+### Potential Improvements
+The following improvements would be made in the near future:
+- Ability for a user to register their own custom routine
+- A database integration which stores each user's routines linked to their discord userID
+- Greater control over the system (i.e. more possible actions)
+
 ## Usage
 ### Steps
 1. Download the files
