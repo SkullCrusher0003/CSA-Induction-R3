@@ -8,7 +8,7 @@ r1 = [
 r2 = [
     [1, "www.stackoverflow.com"],
     [2, 3],
-    [3, ""],
+    [3, r""],
     [2, 3],
     [1, "www.github.com"]
 ]
